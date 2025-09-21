@@ -1,9 +1,8 @@
 # 👋 Olá, eu sou Victor Sampaio  
-💻 Desenvolvedor Full Stack | JavaScript • Python • Hardware  
+💻 Desenvolvedor Full Stack | JavaScript • Python
 
 - 🎂 Atualmente tenho 19 anos  
-- 🎓 Formação em **Técnico em Desenvolvimento de Sistemas**  
-- 🛠️ Formação em **Técnico em Manutenção de Hardware**  
+- 🎓 Formação em **Técnico em Desenvolvimento de Sistemas**   
 - 🚀 Apaixonado por tecnologia, inovação e desafios que exigem criatividade e lógica  
 
 ---
